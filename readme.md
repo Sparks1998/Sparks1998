@@ -349,6 +349,20 @@
 				src = "https://img.icons8.com/?size=512&id=lOqoeP2Zy02f&format=png"
 				style = "max-width: 100%;">
 		</td>
+		<td>
+			<img title = "Kafka"
+				alt = "Kafka"
+				width = "40px"
+				src = "https://www.svgrepo.com/show/305719/apachekafka.svg"
+				style = "max-width: 100%;">
+		</td>
+		<td>
+			<img title = "Kafka"
+				alt = "Kafka"
+				width = "40px"
+				src = "https://plugins.jetbrains.com/files/14004/711000/icon/default.png"
+				style = "max-width: 100%;">
+		</td>
 	</tr>
 	</thead>
 </table>
