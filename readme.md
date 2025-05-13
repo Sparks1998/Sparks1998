@@ -8,7 +8,7 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=TheSonOfSocrates) -->
 
-<img style = "float: left;" alt = "visitor-badge" src = "https://visitor-badge.laobi.icu/badge?page_id=zeeid" />
+<img style = "float: left;" alt = "visitor-badge" src = "https://visitor-badge.laobi.icu/badge?page_id=Sparks1998" />
 
 <p style = "text-align: center;">
 	<a href = "https://github.com/Sparks1998">
