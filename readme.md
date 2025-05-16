@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1 style = "text-align: center;">
+<h1 align="center">
 	👋 Full Stack Engineer
 	<img alt = "Hello" src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "35">
 </h1>
@@ -10,7 +10,7 @@
 
 <img style = "float: left;" alt = "visitor-badge" src = "https://visitor-badge.laobi.icu/badge?page_id=Sparks1998" />
 
-<p style = "text-align: center;">
+<p align="center">
 	<a href = "https://github.com/Sparks1998">
 		<img
 				alt = "Solid Coding Experience"
@@ -19,7 +19,7 @@
 	</a>
 </p>
 
-<h1 style = "text-align: center;">
+<h1 align="center">
 	<img src = "https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"
 			alt = "Awesome Badge" />
 	<img src = "https://img.shields.io/static/v1?label=&labelColor=505050&message=findwrk&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6"
@@ -30,7 +30,7 @@
 
 <br />
 
-<h1 style = "text-align: center;">About Me</h1>
+<h1 align="center">About Me</h1>
 
 <ul dir = "auto">
 	<li>
@@ -84,10 +84,10 @@
 </ul>
 <br />
 
-<h1 style = "text-align: center;">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h1>
-<p style = "text-align: center;">These are some of the major technologies that I use or have worked on in the past.</p>
-<p style = "text-align: center;" dir = "auto"><strong>Programming Languages</strong></p>
-<table style = "text-align: center;">
+<h1 align="center">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h1>
+<p align="center">These are some of the major technologies that I use or have worked on in the past.</p>
+<p align="center" dir = "auto"><strong>Programming Languages</strong></p>
+<table align="center">
 	<tbody>
 	<tr>
 		<td>
@@ -135,8 +135,8 @@
 	</tr>
 	</tbody>
 </table>
-<p dir = "auto" style = "text-align: center;"><strong>Libraries and Frameworks</strong></p>
-<table style = "text-align: center;">
+<p dir = "auto" align="center"><strong>Libraries and Frameworks</strong></p>
+<table align="center">
 	<tbody>
 	<tr>
 		<td>
@@ -239,8 +239,8 @@
 	</tr>
 	</tbody>
 </table>
-<p dir = "auto" style = "text-align: center;"><strong>Cloud</strong></p>
-<table style = "text-align: center;">
+<p dir = "auto" align="center"><strong>Cloud</strong></p>
+<table align="center">
 	<thead>
 	<tr>
 		<td>
@@ -275,8 +275,8 @@
 	</tr>
 	</thead>
 </table>
-<p dir = "auto" style = "text-align: center;"><strong>Databases</strong></p>
-<table style = "text-align: center;">
+<p dir = "auto" align="center"><strong>Databases</strong></p>
+<table align="center">
 	<thead>
 	<tr>
 		<td>
@@ -312,8 +312,8 @@
 	</tr>
 	</thead>
 </table>
-<p dir = "auto" style = "text-align: center;"><strong>Tools</strong></p>
-<table style = "text-align: center;">
+<p dir = "auto" align="center"><strong>Tools</strong></p>
+<table align="center">
 	<thead>
 	<tr>
 		<td>
