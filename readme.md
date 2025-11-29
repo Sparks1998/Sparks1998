@@ -363,10 +363,10 @@
 				style = "max-width: 100%;">
 		</td>
 		<td>
-			<img title = "Kafka"
-				alt = "Kafka"
+			<img title = "Google Protobuf"
+				alt = "Google Protobuf"
 				width = "40px"
-				src = "https://plugins.jetbrains.com/files/14004/711000/icon/default.png"
+				src = "https://iconape.com/wp-content/files/th/370946/svg/370946.svg"
 				style = "max-width: 100%;">
 		</td>
 	</tr>
