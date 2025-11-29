@@ -37,15 +37,15 @@
 		<g-emoji class = "g-emoji"
 				alias = "bank"
 				fallback-src = "https://github.githubassets.com/images/icons/emoji/unicode/1f3e6.png"></g-emoji>
-		I'm currently working for a FR based company where I make web applications using various programming
-		languages as a full stack engineer.
+		I'm currently looking for a role where I can apply my skills in developing and deploying full-stack web applications using modern programming technologies.
 	</li>
 	<li>
 		<g-emoji class = "g-emoji"
 				alias = "thinking"
 				fallback-src = "https://github.githubassets.com/images/icons/emoji/unicode/1f914.png"></g-emoji>
-		I use daily <code>.java</code>, <code>.ts</code>, <code>.js</code>, <code>.tsx</code>, <code>.sql</code>,
-		<code>.dart</code>, <code>.kt</code></li>
+		I use daily <code>.java</code>, <code>.kt</code>,<code>.ts</code>, <code>.js</code>, <code>.tsx</code>, 
+		<code>.vue</code>, <code>.sql</code>, <code>.dart</code>, <code>.yaml</code>
+	</li>
 	<li>
 		<g-emoji class = "g-emoji"
 				alias = "seedling"
@@ -62,7 +62,7 @@
 		<g-emoji class = "g-emoji"
 				alias = "speech_balloon"
 				fallback-src = "https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png"></g-emoji>
-		Talk to me about Vue, React, Angular, Java, Spring Boot, Node, Express, GraphQL, MongoDB, MySQL, PostgreSQL,
+		Talk to me about Vue, React, Angular, Java, Kotlin, Compose multiplatform, Flutter, Spring Boot, Node, Express, GraphQL, MongoDB, MySQL, PostgreSQL,
 		Docker, Kubernetes, Git, Linux, Bash, Python, C, C++, C#, TypeScript, JavaScript, HTML, CSS, SQL,
 		GraphQL, REST, SOAP, gRPC, Kafka, Hibernate, JPA, ORM, Hibernate Validator, Spring Security, Spring Data, 
 		Spring MVC, Spring Web, Spring Cloud, Spring Cloud Stream, Spring Cloud Gateway, Spring Cloud Circuit 
@@ -236,6 +236,12 @@
 				src = "https://img.icons8.com/?size=512&id=jH4BpkMnRrU5&format=png"
 				style = "max-width: 100%;">
 		</td>
+		<td>
+			<img 
+				width = "40px"
+				src = "https://user-images.githubusercontent.com/29678011/201169741-7f95aae5-4cf7-462c-8cbd-e4dc5b0b2346.svg"
+				style = "max-width: 100%;">
+		</td>
 	</tr>
 	</tbody>
 </table>
@@ -370,3 +376,4 @@
 <br />
 </body>
 </html>
+
